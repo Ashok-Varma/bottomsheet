@@ -42,5 +42,12 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, BottomSheetFragmentActivity.class));
             }
         });
+
+        findViewById(R.id.bottomsheet_with_fab).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, BottomSheetWithFABActivity.class));
+            }
+        });
     }
 }

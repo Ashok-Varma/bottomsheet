@@ -15,4 +15,5 @@
     <string name="show">Show</string>
     <string name="reopen">Reopen as other type</string>
     <string name="bottomsheet_fragment">BottomSheet Fragment</string>
+    <string name="bottomsheet_with_fab">BottomSheet with Fab</string>
 </resources>

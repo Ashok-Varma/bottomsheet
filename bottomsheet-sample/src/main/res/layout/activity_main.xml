@@ -33,4 +33,11 @@
         android:layout_height="wrap_content"
         android:text="@string/bottomsheet_fragment"
         />
+
+    <Button
+        android:id="@+id/bottomsheet_with_fab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bottomsheet_with_fab"
+        />
 </LinearLayout>
